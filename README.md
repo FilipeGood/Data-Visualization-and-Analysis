@@ -11,6 +11,9 @@ This repo contains jupyter notebooks with the code of two Data Visualization Cou
   url => https://www.kaggle.com/learn/data-visualization
   A course that overviews the most common charts using the Seaborn package
 
+#### EDA - IBM coursera course
+   url => https://www.coursera.org/learn/data-analysis-with-python  - week 3
+   Simple EDA techniques that give good insights about the dataset
 
 #### Exploratory Data Analysis
       Steps:
