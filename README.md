@@ -30,6 +30,7 @@ This repo contains jupyter notebooks with the code of two Data Visualization Cou
          5. Bivariate Analysis
             - Identifying relationships between features
             - Scatter plots (regplot - seaborn), boxplots (x being a categorical feature (labels) and y being numeric (for example the target)), heatmaps
+            - sns.countplot() - compare the distrution of two categorical columns => sex vs have/no disease
          6. Analyzing outliers and missing values
          7. Correlation Analysis
             - Regplots (seaborn)
